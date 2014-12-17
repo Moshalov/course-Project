@@ -1,0 +1,372 @@
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\EntityFramework.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Owin.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\WebGrease.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\EntityFramework.xml
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\ru\System.Web.Helpers.resources.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\ru\System.Web.Mvc.resources.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\ru\System.Web.Optimization.resources.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\ru\System.Web.Razor.resources.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.resources.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Razor.resources.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\ru\EntityFramework.resources.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\ru\EntityFramework.SqlServer.resources.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.resources.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.Security.resources.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+c:\users\bel\documents\visual studio 2013\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\WebApplication1.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\EntityFramework.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Owin.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\WebGrease.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\EntityFramework.xml
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\System.Web.Helpers.resources.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\System.Web.Mvc.resources.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\System.Web.Optimization.resources.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\System.Web.Razor.resources.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.resources.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Razor.resources.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\EntityFramework.resources.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\EntityFramework.SqlServer.resources.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.resources.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.Security.resources.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+I:\Курсач Мочаов\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+I:\Курсач Мочаов\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\WebApplication1.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\EntityFramework.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Owin.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\WebGrease.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\EntityFramework.xml
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\System.Web.Helpers.resources.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\System.Web.Mvc.resources.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\System.Web.Optimization.resources.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\System.Web.Razor.resources.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.resources.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Razor.resources.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\EntityFramework.resources.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\EntityFramework.SqlServer.resources.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.resources.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.Security.resources.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+G:\Курсач Мочаов\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+G:\Курсач Мочаов\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+G:\Курсач Мочаов\WebApplication1\WebApplication1\bin\System.Web.Providers.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\Owin.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\System.Web.Providers.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\WebGrease.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\ru\EntityFramework.resources.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Bel\Desktop\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\EntityFramework.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\Microsoft.Owin.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\Owin.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\System.Web.Providers.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\WebGrease.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\EntityFramework.xml
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\Microsoft.Owin.xml
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.xml
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\ru\System.Web.Helpers.resources.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\ru\System.Web.Mvc.resources.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\ru\System.Web.Optimization.resources.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\ru\System.Web.Razor.resources.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.resources.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\ru\EntityFramework.resources.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.resources.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.Security.resources.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Библиотека\5 семестр\Технология программирования\Курсач\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

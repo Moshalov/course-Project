@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 12.875, 9.5" name="MEIData">
+  <DataContextMoniker Name="/MEIDataDataContext" />
+  <nestedChildShapes>
+    <classShape Id="538c251c-57c0-4921-a406-8a1fa0440120" absoluteBounds="9.875, 0.75, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/MEIDataDataContext/Сomments" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a0caa6aa-4354-4d0b-aebf-ec4a84d56169" absoluteBounds="9.89, 1.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b2f95209-d388-43df-a3f1-b1c076323656" absoluteBounds="3.5, 5.625, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/MEIDataDataContext/AspNetRoles" />
+      <nestedChildShapes>
+        <elementListCompartment Id="56a361e9-6e7a-4aac-8a94-d74bacc65c60" absoluteBounds="3.515, 6.0850000000000009, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e92c783c-e3d0-4c0e-bbff-48b1ba75ed19" absoluteBounds="6.5, 8, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/MEIDataDataContext/AspNetUserRoles" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9a244422-70e6-4f33-a09c-f253e13d8b52" absoluteBounds="6.5150000000000006, 8.46, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f0a215b0-cdfd-4059-af8a-a657842b6783" absoluteBounds="6.25, 5.375, 2, 1.7708968098958344">
+      <DataClassMoniker Name="/MEIDataDataContext/AspNetUsers" />
+      <nestedChildShapes>
+        <elementListCompartment Id="297b1424-4a89-4e55-8765-b7e96d0dffd2" absoluteBounds="6.265, 5.8350000000000009, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="73da53f2-37c8-4ece-9010-4cbe4337ca4c" absoluteBounds="7.5, 0.625, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/MEIDataDataContext/Report" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8fe246d4-84df-4b63-97a1-9224b4d9d415" absoluteBounds="7.5150000000000006, 1.085, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="159cd0e2-c76a-4692-8a71-f07e62d06357" absoluteBounds="9.875, 3.375, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/MEIDataDataContext/School" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4e7b49a2-4e1b-4c94-bb87-452823606143" absoluteBounds="9.89, 3.835, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6e2f196b-d683-46e3-91d4-9ffd23398618" absoluteBounds="4.5, 1.375, 2, 1.3862939453124998">
+      <DataClassMoniker Name="/MEIDataDataContext/Status" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bce53867-d9fb-438b-9b2e-9523adc24dab" absoluteBounds="4.515, 1.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4c4b6b28-bf36-4683-89a2-a69e47561920" absoluteBounds="4.875, 3.5, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/MEIDataDataContext/Type" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c4d7b7d7-fb0b-471a-aff8-1f23debea1a7" absoluteBounds="4.89, 3.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.5 : 7.0112939453125); (4.5 : 8.59699625651042); (6.5 : 8.59699625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MEIDataDataContext/AspNetRoles/AspNetRoles_AspNetUserRoles" />
+      <nodes>
+        <classShapeMoniker Id="b2f95209-d388-43df-a3f1-b1c076323656" />
+        <classShapeMoniker Id="e92c783c-e3d0-4c0e-bbff-48b1ba75ed19" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(7.375 : 7.14589680989583); (7.375 : 8)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MEIDataDataContext/AspNetUsers/AspNetUsers_AspNetUserRoles" />
+      <nodes>
+        <classShapeMoniker Id="f0a215b0-cdfd-4059-af8a-a657842b6783" />
+        <classShapeMoniker Id="e92c783c-e3d0-4c0e-bbff-48b1ba75ed19" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(9.5 : 1.63544840494792); (9.875 : 1.63544840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MEIDataDataContext/Report/Report_Сomments" />
+      <nodes>
+        <classShapeMoniker Id="73da53f2-37c8-4ece-9010-4cbe4337ca4c" />
+        <classShapeMoniker Id="538c251c-57c0-4921-a406-8a1fa0440120" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(9.875 : 3.375); (9.5 : 2.97280110677083)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/MEIDataDataContext/School/School_Report" />
+      <nodes>
+        <classShapeMoniker Id="159cd0e2-c76a-4692-8a71-f07e62d06357" />
+        <classShapeMoniker Id="73da53f2-37c8-4ece-9010-4cbe4337ca4c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(6.5 : 2.06814697265625); (7.5 : 2.06814697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MEIDataDataContext/Status/Status_Report" />
+      <nodes>
+        <classShapeMoniker Id="6e2f196b-d683-46e3-91d4-9ffd23398618" />
+        <classShapeMoniker Id="73da53f2-37c8-4ece-9010-4cbe4337ca4c" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(6.875 : 3.5); (7.5 : 2.97280110677083)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/MEIDataDataContext/Type/Type_Report" />
+      <nodes>
+        <classShapeMoniker Id="4c4b6b28-bf36-4683-89a2-a69e47561920" />
+        <classShapeMoniker Id="73da53f2-37c8-4ece-9010-4cbe4337ca4c" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="18ffe668-8bd8-4ae6-b666-882cd3ef6333" absoluteBounds="10.625, 6.25, 2, 1.3862939453125">
+      <DataClassMoniker Name="/MEIDataDataContext/AspUserInSchool" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0c58b281-e6b1-4ef4-82e9-68047f50e3b2" absoluteBounds="10.64, 6.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(8.25 : 6.69794840494792); (10.625 : 6.69794840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MEIDataDataContext/AspNetUsers/AspNetUsers_AspUserInSchool" />
+      <nodes>
+        <classShapeMoniker Id="f0a215b0-cdfd-4059-af8a-a657842b6783" />
+        <classShapeMoniker Id="18ffe668-8bd8-4ae6-b666-882cd3ef6333" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.25 : 5.14589680989583); (11.25 : 6.25)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/MEIDataDataContext/School/School_AspUserInSchool" />
+      <nodes>
+        <classShapeMoniker Id="159cd0e2-c76a-4692-8a71-f07e62d06357" />
+        <classShapeMoniker Id="18ffe668-8bd8-4ae6-b666-882cd3ef6333" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

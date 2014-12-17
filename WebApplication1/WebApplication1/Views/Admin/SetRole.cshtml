@@ -1,0 +1,56 @@
+﻿@model WebApplication1.DAO.AspNetUserRoles
+
+@{
+    ViewBag.Title = "SetRole";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>SetRole</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>AspNetUserRoles</h4>
+        <hr />
+        @Html.ValidationSummary(true)
+       
+
+        <div class="form-group">
+            @{
+    List<SelectListItem> users = new List<SelectListItem>();
+    foreach (WebApplication1.DAO.AspNetUsers item in new WebApplication1.DAO.DAO().getUserList())
+    {
+        users.Add(new SelectListItem() { Value = item.Id.ToString(), Text = item.UserName });
+    }
+
+    List<SelectListItem> school = new List<SelectListItem>();
+    foreach (WebApplication1.DAO.AspNetRoles item in new WebApplication1.DAO.DAO().getRoleList())
+    {
+        school.Add(new SelectListItem() { Value = item.Id.ToString(), Text = item.Name });
+    }
+            }
+            <div class="form-group">
+                @Html.Label("Пользователь")
+                <div class="col-md-10">
+                    @Html.DropDownListFor(model => model.UserId, users)
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.Label("Школа")
+                <div class="col-md-10">
+                    @Html.DropDownListFor(model => model.RoleId, school)
+                    )
+                </div>
+            </div>
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

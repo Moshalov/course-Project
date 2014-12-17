@@ -1,0 +1,91 @@
+﻿@model WebApplication1.DAO.Report
+
+@{
+    ViewBag.Title = "Allow";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Allow</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>Отчет:</h4> @Html.DisplayFor(model => model.Name)
+        <hr />
+        @Html.ValidationSummary(true)
+
+        <div class="form-group">
+            <div class="col-md-10">
+            </div>
+        </div>
+
+        <strong>Тип</strong>
+        <div class="form-group">
+            
+            <div class="col-md-10">
+                @Html.DisplayFor(model => model.Type.Name)
+            </div>
+        </div>
+        <strong>Школа</strong>
+        <div class="form-group">
+            
+            <div class="col-md-10">
+                @Html.DisplayFor(model => model.School.Name)
+            </div>
+        </div>
+
+        <strong>Содержание</strong>
+        <div class="form-group">
+            <div class="col-md-10">
+                @Html.DisplayFor(model => model.Text)
+            </div>
+        </div>
+
+        <div class="form-group">
+        
+            <div class="col-md-10" style ="text-align:right">
+                @Html.DisplayFor(model => model.Date)
+            </div>
+        </div>
+
+        <div class="form-group">
+          @{                                   
+        
+        List<SelectListItem> list = new List<SelectListItem>();
+           foreach(WebApplication1.DAO.Status item in new WebApplication1.DAO.DAO().getArrayOfStatus() )
+            {
+                list.Add(new SelectListItem() { Value = item.Id.ToString(), Text = item.Status1 });//Заполняем его
+            }
+          }
+            
+            @Html.LabelFor(model => model.Status_id, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.Status_id,list)
+                @Html.ValidationMessageFor(model => model.Status_id)
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    
+        @{
+    if (Model != null)
+    {
+        
+        Html.RenderAction("Comments", new { id = Model.Id });
+    }
+          }
+        <br />
+        @Html.ActionLink("Добавить", "AddCommentView", new { id = Model.Id })
+     
+        
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

@@ -1,0 +1,46 @@
+﻿@model IEnumerable<WebApplication1.DAO.AspNetUsers>
+
+@{
+    ViewBag.Title = "UserList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>UserList</h2>
+
+<p>
+    @Html.ActionLink("Создать", "CreateUser")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Имя пользователя
+        </th>
+        <th>
+           Роли
+        </th>
+        <th>
+            Школы
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.UserName)
+        </td>
+        <td>
+            @foreach (var role in new  WebApplication1.DAO.DAO().getUserRoleList(item.Id))
+            {
+                @Html.DisplayFor(x => role.AspNetRoles.Name);
+            }
+        </td>
+        <td>
+            @foreach (var role in new WebApplication1.DAO.DAO().getUserSchoolList(item.Id))
+            {
+                @Html.DisplayFor(x => role.School1.Name);
+            }
+        </td>
+    </tr>
+}
+
+</table>

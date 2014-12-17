@@ -1,0 +1,60 @@
+﻿@model WebApplication1.DAO.AspUserInSchool
+
+@{
+    ViewBag.Title = "SelectSchoolForUser";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Назначить школу для сотрудника</h2>
+@{
+    List<SelectListItem> users = new List<SelectListItem>();
+    foreach (WebApplication1.DAO.AspNetUsers item in new WebApplication1.DAO.DAO().getUserList())
+    {
+        users.Add(new SelectListItem() { Value = item.Id.ToString(), Text = item.UserName });
+    }
+
+    List<SelectListItem> school = new List<SelectListItem>();
+    foreach (WebApplication1.DAO.School item in new WebApplication1.DAO.DAO().getSchoolList())
+    {
+        school.Add(new SelectListItem() { Value = item.Id.ToString(), Text = item.Name });
+    }
+}
+@using (Html.BeginForm()) 
+{    
+    @Html.AntiForgeryToken()
+
+    
+    
+    
+
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true)
+
+        <div class="form-group">
+            @Html.Label("Пользователь")
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.User_id, users)
+            </div>
+        </div>
+        <div class="form-group">
+           @Html.Label("Школа")
+            <div class="col-md-10">
+                @Html.DropDownListFor(model => model.School,school)
+)
+                @Html.ValidationMessageFor(model => model.School)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

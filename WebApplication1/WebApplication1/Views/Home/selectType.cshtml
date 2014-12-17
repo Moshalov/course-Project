@@ -1,0 +1,71 @@
+﻿@model WebApplication1.DAO.Type[]
+
+@{
+    ViewBag.Title = "selectType";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>selectType</h2>
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>Type</h4>
+        <hr />
+        @Html.ValidationSummary(true)
+
+     
+
+        <div class="form-group">
+            <p>
+                <select size="3" multiple name="hero[]" id="selects">
+                    <option disabled>Выберите героя</option>
+                    <option value="Чебурашка">Чебурашка</option>
+                    <option selected value="Крокодил Гена">Крокодил Гена</option>
+                    <option value="Шапокляк">Шапокляк</option>
+                    <option value="Крыса Лариса">Крыса Лариса</option>
+                </select>
+            </p>
+                        <div class="col-md-10">
+            </div>
+        </div>
+     
+               <div class="form-group">
+            <div class="col-md-10">
+            </div>
+        </div>
+       
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Create" class="btn btn-default" />
+        </div>
+    </div>
+</div>
+}
+
+<div>
+    @{
+    WebApplication1.DAO.Type t = new WebApplication1.DAO.Type();
+    List<SelectListItem> list = new List<SelectListItem>();//Список значений для DDL
+    for (int i = 0; i < Model.Length; i++)
+    {
+        list.Add(new SelectListItem() {Value = Model[i].Id.ToString(), Text = Model[i].Name });//Заполняем его
+    }
+
+        
+        
+      t.Id = 1;
+      }
+    @Html.DropDownList("myDDL", list)
+    @Html.DropDownListFor(md => t.Name, list)
+    @Html.ActionLink("Создать", "ReportCreate", new { id = t.Name }) |
+    @Html.ActionLink("Back to List", "Index")
+   
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

@@ -1,0 +1,41 @@
+﻿@model WebApplication1.DAO.Report
+
+@{
+    ViewBag.Title = "Отчет "+Model.Name;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div>
+	<hr />
+    <dl class="dl-horizontal">
+           <h2>Содержание отчета @Model.Name</h2> @Html.DisplayFor(model => model.Text)
+        <dd style="text-align:right">
+            @Html.DisplayFor(model => model.Date)
+        </dd>
+
+        <dt>
+           @Html.DisplayFor(model => model.Status.Status1)
+        </dt>
+
+        <dd>
+            Тип:@Html.DisplayFor(model => model.Type.Name)
+        </dd>
+
+        <dd>
+            @Html.DisplayFor(model => model.School.Name)
+        </dd>
+     
+        </dd>
+            @{Html.RenderAction("Comments", Model.Id);}
+        <br />
+        
+        <hr />
+        @Html.ActionLink("Добавить", "AddCommentView", new { id = Model.Id })
+
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

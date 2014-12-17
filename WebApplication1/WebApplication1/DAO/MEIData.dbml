@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="MEI_DB" Class="MEIDataDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=LOCALHOST\SQLEXPRESS;Initial Catalog=MEI_DB;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="DefaultConnection" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Сomments" Member="Сomments">
+    <Type Name="Сomments">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Text" Type="System.String" DbType="Text" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Date_time" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Report_id" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="UserName" Type="System.String" DbType="NVarChar(128)" CanBeNull="true" />
+      <Association Name="Report_Сomments" Member="Report" ThisKey="Report_id" OtherKey="Id" Type="Report" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.AspNetRoles" Member="AspNetRoles">
+    <Type Name="AspNetRoles">
+      <Column Name="Id" Type="System.String" DbType="NVarChar(128) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(128) NOT NULL" CanBeNull="false" />
+      <Column Name="Translated" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="AspNetRoles_AspNetUserRoles" Member="AspNetUserRoles" ThisKey="Id" OtherKey="RoleId" Type="AspNetUserRoles" />
+    </Type>
+  </Table>
+  <Table Name="dbo.AspNetUserRoles" Member="AspNetUserRoles">
+    <Type Name="AspNetUserRoles">
+      <Column Name="UserId" Type="System.String" DbType="NVarChar(128) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="RoleId" Type="System.String" DbType="NVarChar(128) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Association Name="AspNetRoles_AspNetUserRoles" Member="AspNetRoles" ThisKey="RoleId" OtherKey="Id" Type="AspNetRoles" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="AspNetUsers_AspNetUserRoles" Member="AspNetUsers" ThisKey="UserId" OtherKey="Id" Type="AspNetUsers" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.AspNetUsers" Member="AspNetUsers">
+    <Type Name="AspNetUsers">
+      <Column Name="Id" Type="System.String" DbType="NVarChar(128) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="UserName" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="PasswordHash" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="SecurityStamp" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Discriminator" Type="System.String" DbType="NVarChar(128) NOT NULL" CanBeNull="false" />
+      <Association Name="AspNetUsers_AspNetUserRoles" Member="AspNetUserRoles" ThisKey="Id" OtherKey="UserId" Type="AspNetUserRoles" />
+      <Association Name="AspNetUsers_AspUserInSchool" Member="AspUserInSchool" ThisKey="Id" OtherKey="User_id" Type="AspUserInSchool" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Report" Member="Report">
+    <Type Name="Report">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Text" Type="System.String" DbType="Text" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Date" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="Status_id" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Type_id" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="School_id" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="UserName" Type="System.String" DbType="NVarChar(128)" CanBeNull="true" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Report_Сomments" Member="Сomments" ThisKey="Id" OtherKey="Report_id" Type="Сomments" />
+      <Association Name="School_Report" Member="School" ThisKey="School_id" OtherKey="Id" Type="School" IsForeignKey="true" />
+      <Association Name="Status_Report" Member="Status" ThisKey="Status_id" OtherKey="Id" Type="Status" IsForeignKey="true" />
+      <Association Name="Type_Report" Member="Type" ThisKey="Type_id" OtherKey="Id" Type="Type" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.School" Member="School">
+    <Type Name="School">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NChar(255)" CanBeNull="true" />
+      <Column Name="DirName" Type="System.String" DbType="NChar(100)" CanBeNull="true" />
+      <Column Name="Address" Type="System.String" DbType="NChar(255)" CanBeNull="true" />
+      <Column Name="Phone_Number" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Association Name="School_Report" Member="Report" ThisKey="Id" OtherKey="School_id" Type="Report" />
+      <Association Name="School_AspUserInSchool" Member="AspUserInSchool" ThisKey="Id" OtherKey="School" Type="AspUserInSchool" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Status" Member="Status">
+    <Type Name="Status">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Status" Member="Status1" Type="System.String" DbType="NChar(50)" CanBeNull="true" />
+      <Column Name="Description" Type="System.String" DbType="NChar(250)" CanBeNull="true" />
+      <Association Name="Status_Report" Member="Report" ThisKey="Id" OtherKey="Status_id" Type="Report" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Type" Member="Type">
+    <Type Name="Type">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NChar(20)" CanBeNull="true" />
+      <Column Name="Description" Type="System.String" DbType="NChar(255)" CanBeNull="true" />
+      <Association Name="Type_Report" Member="Report" ThisKey="Id" OtherKey="Type_id" Type="Report" />
+    </Type>
+  </Table>
+  <Table Name="dbo.AspUserInSchool" Member="AspUserInSchool">
+    <Type Name="AspUserInSchool">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="User_id" Type="System.String" DbType="NVarChar(128) NOT NULL" CanBeNull="false" />
+      <Column Name="School" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="AspNetUsers_AspUserInSchool" Member="AspNetUsers" ThisKey="User_id" OtherKey="Id" Type="AspNetUsers" IsForeignKey="true" />
+      <Association Name="School_AspUserInSchool" Member="School1" ThisKey="School" OtherKey="Id" Type="School" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>
